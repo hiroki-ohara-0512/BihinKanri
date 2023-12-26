@@ -18,5 +18,5 @@
 | ページ      | URL      |  サーブレット   |
 |:----------:|:----------|---------------:|
 | ホーム      | /home    | HomeServlet    |
-| 会社概要    |          |AboutServlet    |
+| 会社概要    | /about   |AboutServlet    |
 | 製品リスト  | /products| ProductServlet |
